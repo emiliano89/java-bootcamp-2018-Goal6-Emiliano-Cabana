@@ -1,0 +1,11 @@
+globant\topic6\model\Product.class
+globant\topic6\CartApp.class
+globant\topic6\service\ProductService.class
+globant\topic6\model\ShoppingCart.class
+globant\topic6\service\UserService.class
+globant\topic6\model\User.class
+globant\topic6\dao\ProductRepository.class
+globant\topic6\service\ShoppingCartService.class
+globant\topic6\dao\UserRepository.class
+globant\topic6\dao\ShoppingCartRepository.class
+globant\topic6\configuration\AppConfig.class
