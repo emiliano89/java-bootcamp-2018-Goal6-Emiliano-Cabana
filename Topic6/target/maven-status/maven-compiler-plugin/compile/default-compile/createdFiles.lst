@@ -1,0 +1,13 @@
+globant\topic6\repositories\UserRepository.class
+globant\topic6\controller\UsersController.class
+globant\topic6\model\Product.class
+globant\topic6\controller\ProductController.class
+globant\topic6\repositories\ProductRepository.class
+globant\topic6\repositories\ShoppingCartRepository.class
+globant\topic6\CartApp.class
+globant\topic6\service\ProductService.class
+globant\topic6\model\ShoppingCart.class
+globant\topic6\service\UserService.class
+globant\topic6\model\Users.class
+globant\topic6\controller\ShoppingCartController.class
+globant\topic6\service\ShoppingCartService.class
